@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Israel-Chesa
+- 👀 I’m interested in United Kingdom
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analytics
+- 📫 You can reach me on chesaisrael@gmail.com
